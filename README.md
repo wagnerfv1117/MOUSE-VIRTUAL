@@ -9,5 +9,8 @@ Este aplicativo, utiliza las siguientes librerías, las cuales deben estar insta
 
 # ¡RECOMENDACIONES!
 
+Leer para usar y clonar el repositorio:
+
 1-Utilizar una cámara con buena resolución, y enfocar los dedos de las manos en esta.
+
 2-Hacer gestos adecuados, para obtener el movimiento del mouse.
