@@ -15,7 +15,7 @@ Una aplicación de mouse virtual, desarrollada con Python, para controlarla desd
 - Windows
 - Git
 
-### ¡RECOMENDACIONES!
+### ¡Recomendaciones!
 
 Leer para usar y clonar el repositorio:
 
